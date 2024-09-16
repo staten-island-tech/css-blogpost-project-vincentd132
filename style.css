@@ -17,9 +17,9 @@ h1{
 
 .blog1{
     border: 2px solid   black;
-    width: 800px;
- text-align: center;
-    margin: 0;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
 }
 .blog1-head{
     text-align: center;
@@ -31,9 +31,56 @@ h1{
     height: 50%;
     object-fit: cover;
     margin: 0%;
-
+    text-align: center;
 }
 
 .blog1-description {
+    font-size: 20px;
+}
+
+.blog2{
+    border: 2px solid   black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.blog2-head{
+    text-align: center;
+    font-size: 60px;
+}
+
+.blog2-img {
+    width: 80%;
+    height: 50%;
+    object-fit: cover;
+    margin: 0%;
+    text-align: center;
+}
+
+.blog2-description {
+    font-size: 20px;
+}
+
+
+.blog3{
+    border: 2px solid   black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.blog3-head{
+    text-align: center;
+    font-size: 60px;
+}
+
+.blog3-img {
+    width: 80%;
+    height: 50%;
+    object-fit: cover;
+    margin: 0%;
+    text-align: center;
+}
+
+.blog3-description {
     font-size: 20px;
 }
